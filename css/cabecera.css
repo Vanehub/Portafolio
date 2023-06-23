@@ -1,0 +1,57 @@
+.fixed-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+    
+  }
+.fixed-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+ .fixed-nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .fixed-nav li a {
+    color: #000;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+  
+  .fixed-nav li a:hover {
+    color: #800080;
+    font-size: 17px;
+
+  }
+  .container {
+    position: relative;
+    text-align: center;
+   
+    
+  }
+  .centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+  .centered-text {
+
+    color: #f2f2f2;
+    
+  }
+  .banner__portafolio {
+
+   width: 1250px;
+   height: 350px;
+
+
+  }
+  

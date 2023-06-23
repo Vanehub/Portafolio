@@ -1,0 +1,101 @@
+.historia__contenido {
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    align-items: center;
+    text-align: center;
+
+}
+.historia {
+
+    display: flex;
+    align-items: center;
+
+}
+h1, p {
+
+    margin: 0 10px;
+      
+}
+.historia img {
+
+  border-radius: 360px;
+  width: 250px;
+
+}
+.historia__titulo {
+
+  color: #aaa;
+
+}
+.historia__descripcion p {
+
+      text-align: center;
+      color: #333;
+      font-size: 18px;
+      margin-left: 980px;
+}    
+.certificates-section {
+    text-align: center;
+    color: #aaa;
+    box-shadow: #000000;
+    margin-top: 80px;
+   
+}
+h2 {
+
+    border-style: 1px solid black;
+    margin-top: 100px;
+  
+
+}
+  .certificates-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 80px;
+}
+  
+.certificate {
+    margin: 10px;
+}
+  
+.certificate img {
+    width: 200px;
+    height: 150px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.certificate img:hover {
+    border-color: #aaa;
+
+}
+.experiencia-section {
+    text-align: center;
+    color: #aaa;
+    box-shadow: #000000;
+   
+
+}
+.experiencia-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 80px;
+}
+  
+.experiencia {
+    margin: 10px;
+}
+  
+.experiencia img {
+    width: 200px;
+    height: 150px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+  
+.experiencia img:hover {
+    border-color: #aaa;
+}
